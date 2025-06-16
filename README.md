@@ -4,11 +4,11 @@
 
 
 ### 👩‍💻 About Me
-I'm a dedicated student of Computer Science at UET Lahore, diving deep into the world of **Cloud Engineering**.  
-Currently exploring AWS, practicing real-world scenarios, and growing my skills in DevOps, Linux, and scripting.  
-I believe in learning by doing — and I'm building my way to the cloud one step at a time ☁️💻
+- 🎓 I'm a passionate Computer Science student at UET Lahore, with a strong interest in Cloud Engineering & DevOps.
+- ☁️ Currently diving into AWS, hands-on cloud solutions, and Linux environments.
+- 🛠️ Strengthening skills in scripting, automation, and system design through real-world practice.
+- 💡 Firm believer in learning by doing and eager to contribute to innovative tech spaces.
 
----
 
 ### 💻 Tech Stack
 
@@ -21,7 +21,6 @@ I believe in learning by doing — and I'm building my way to the cloud one step
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 ### 🛠️ Tools & Platforms
 
@@ -33,8 +32,6 @@ I believe in learning by doing — and I'm building my way to the cloud one step
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
----
 
 
 ### 📫 Let's Connect
