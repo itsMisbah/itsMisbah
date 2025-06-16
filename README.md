@@ -1,7 +1,6 @@
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=007BFF&width=550&lines=Hey!+I'm+Misbah+Shahzadi;Aspiring+Cloud+Engineer" alt="Typing SVG" />
 </p>
-<br>
 
 ### 👩‍💻 About Me
 
@@ -46,5 +45,12 @@
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/misbah-shahzadi/)
-- ✉️ Email: misbahh77777@gmail.com
+<p align="left">
+  <a href="mailto:misbahh77777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/misbah-shahzadi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
+
