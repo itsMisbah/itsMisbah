@@ -9,6 +9,9 @@
 - 🛠️ Strengthening skills in scripting, automation, and system design through real-world practice.
 - 💡 Firm believer in learning by doing and eager to contribute to innovative tech spaces.
 
+  
+<br/>
+
 
 ### 💻 Tech Stack
 
@@ -32,6 +35,9 @@
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+
+<br/>
 
 
 ### 📫 Let's Connect
