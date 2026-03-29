@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=007BFF&width=550&lines=Hey!+I'm+Misbah+Shahzadi;Backend Developer, Deployed Multiple applications;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=007BFF&width=550&lines=Hey!+I'm+Misbah+Shahzadi;Backend Developer;Deployed Multiple applications;" alt="Typing SVG" />
 </p>
 
 ### 👩‍💻 About Me
