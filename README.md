@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=007BFF&width=550&lines=Hey!+I'm+Misbah+Shahzadi;Backend Developer;Deployed multiple applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=007BFF&width=550&lines=Hey!+I'm+Misbah+Shahzadi;Backend Developer, Deployed Multiple applications;" alt="Typing SVG" />
 </p>
 
 ### 👩‍💻 About Me
@@ -15,13 +15,13 @@
 
 #### 🔧 Development
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-005C84?style=flat&logo=Django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-005C84?style=flat&logo=DRF&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-005C84?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-005C84?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSql-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
@@ -38,7 +38,9 @@
 #### ☁️ Cluoud Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-FCC624?style=flat&logo=Docker&logoColor=black" />
   <img src="https://img.shields.io/badge/Render-FCC624?style=flat&logo=Render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Railwayr-FCC624?style=flat&logo=Railway&logoColor=black" />
 </p>
 
 <br>
